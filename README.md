@@ -47,6 +47,4 @@ Features
 - Basic admin reports and activity log
 
 -email : charuniedu@gmail.com
-- For production, add HTTPS, stronger validation, and backups.
 
-Enjoy teaching and learning with SmartOLevel LMS! 🚀
